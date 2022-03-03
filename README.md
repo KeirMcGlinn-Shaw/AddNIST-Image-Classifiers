@@ -6,7 +6,7 @@ The dataset is the AddNIST1 dataset from https://github.com/RobGeada/cvpr-nas-da
 Each image is a composition of three MNIST digits one in each of the three colour channels.
 Some examples are given in Figure 1.
 
-![Example image](AddNIST-Example-Data-Image.png)
+![Example image](assets/AddNIST-Example-Data-Image.png)
 Figure 1: Examples of the AddNIST dataset. Each image (the large image) is made up of
 three MNIST images â€“ one in each of the three colour channels. The label for the image is
 the sum of the three numbers and then subtract 1. So, for example the top left image is r=3,
